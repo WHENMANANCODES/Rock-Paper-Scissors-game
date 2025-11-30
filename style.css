@@ -5,11 +5,15 @@
     text-align: center;
 }
 
+.msgbox{
+    margin-top: 1rem;
+     font-size: 5rem;
+}
 .choices{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 5rem;
+    margin-top: 1.5rem;
     gap: 3rem;
 }
 
